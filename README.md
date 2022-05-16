@@ -3,9 +3,9 @@ Flutter Version used : 3.0.0
 
 In this code,
 The following are performed:
-  *The navigation from one screen to another screen 
-  *Passing data between screens(passing the text from a text field of second screen to first screen)
-  *Exit the app when logout,
+- The navigation from one screen to another screen 
+- Passing data between screens(passing the text from a text field of second screen to first screen)
+- Exit the app when logout,
 
 ## Getting Started
 
